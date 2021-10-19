@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T17:41:15.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="PSlIoJWUqpAXa8XSnlV6" version="15.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-19T17:42:02.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="AS3Hv7Cnz8CLCjUEqiTF" version="15.5.2" type="github" pages="3">
   <diagram id="rN-2ofHEUm3aEPXQZrLd" name="TP3_EXO1_Recopie">
     <mxGraphModel dx="1278" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -303,6 +303,9 @@
         <mxCell id="jiDLNjLBQgbxcVhLtASz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jiDLNjLBQgbxcVhLtASz-1" source="jiDLNjLBQgbxcVhLtASz-3" target="jiDLNjLBQgbxcVhLtASz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jiDLNjLBQgbxcVhLtASz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jiDLNjLBQgbxcVhLtASz-1" source="jiDLNjLBQgbxcVhLtASz-3" target="jiDLNjLBQgbxcVhLtASz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="" lucidchartObjectId="iMyibYuG9cRG" id="jiDLNjLBQgbxcVhLtASz-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=13;align=center;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="jiDLNjLBQgbxcVhLtASz-1">
             <mxGeometry x="275" y="217" width="45" height="45" as="geometry" />
@@ -397,6 +400,9 @@
         </mxCell>
         <mxCell id="jiDLNjLBQgbxcVhLtASz-23" value="n &amp;lt;-- n +1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="jiDLNjLBQgbxcVhLtASz-1">
           <mxGeometry x="582" y="386" width="320" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="jiDLNjLBQgbxcVhLtASz-28" value="écrire(&quot;Le nombre de mots est : &quot;, n)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="jiDLNjLBQgbxcVhLtASz-1">
+          <mxGeometry x="370" y="440" width="320" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
