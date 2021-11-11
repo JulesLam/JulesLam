@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T13:25:55.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="SSW3cigL6Z7jetAxrQ12" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-11T13:39:33.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fwaXsCLqYGmRcS8CuNfD" version="15.7.0" type="github" pages="2">
   <diagram id="vl2vvdz3FSyHcrTM7ond" name="C. XOR">
     <mxGraphModel dx="1278" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jYS3l3dOM72XO1uqCdtn" name="D. Soute de navire">
-    <mxGraphModel dx="1038" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="WdH5pnYvqzsrqt0Eg6Ou-0" />
         <mxCell id="WdH5pnYvqzsrqt0Eg6Ou-1" parent="WdH5pnYvqzsrqt0Eg6Ou-0" />
@@ -221,6 +221,10 @@
         <mxCell id="WdH5pnYvqzsrqt0Eg6Ou-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="WdH5pnYvqzsrqt0Eg6Ou-1" source="WdH5pnYvqzsrqt0Eg6Ou-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="345" />
+              <mxPoint x="330" y="345" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WdH5pnYvqzsrqt0Eg6Ou-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="WdH5pnYvqzsrqt0Eg6Ou-1" source="WdH5pnYvqzsrqt0Eg6Ou-17" target="WdH5pnYvqzsrqt0Eg6Ou-18">
