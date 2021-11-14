@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T21:20:56.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="iA8APDbZ3m_P_Nk9-Flm" version="15.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-14T21:21:12.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rZR2tH94iok7ys7WHOG0" version="15.7.3" type="github" pages="5">
   <diagram id="jZx-_EbQVocmSGm2yKn1" name="A. Serrure">
     <mxGraphModel dx="1038" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1197,6 +1197,14 @@
         <mxCell id="Cf3grEpxPk2mPMh1TZ8q-96" value="Q3" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="Cf3grEpxPk2mPMh1TZ8q-1">
           <mxGeometry x="685" y="750" width="45" height="43" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cFabMEydgOZttWTvlMyd" name="E.jeu pierre feuille">
+    <mxGraphModel dx="1038" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="js7Z6u0iiASX10r8Aoww-0" />
+        <mxCell id="js7Z6u0iiASX10r8Aoww-1" parent="js7Z6u0iiASX10r8Aoww-0" />
       </root>
     </mxGraphModel>
   </diagram>
